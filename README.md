@@ -37,7 +37,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <p>Antes de executar, são necessários os seguintes softwares instalados na máquina:</p>
  <ul> 
   <li> React</li>
-  <li> Node</li>
  </ul>
  
  <p>Em em seguida abra no editor de sua preferência.</p>
