@@ -11,6 +11,10 @@
 
 <br>
 
+<p align="center">
+ <a href="https://covid-daily.vercel.app/">Deploy Aqui!</a>
+</p>
+
 ### Requisitos
 
 - [x] Seguir o wireframe para a página de listagem dos dados;
