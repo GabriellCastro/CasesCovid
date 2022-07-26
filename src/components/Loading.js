@@ -1,11 +1,17 @@
-import React from 'react';
+import React from "react";
+import logo from "../assets/logo.png";
 
 function Loading() {
   return (
-    <span className="flex h-3 w-3">
-      <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-sky-400 opacity-75"></span>
-      <span className="relative inline-flex bg-sky-500"></span>
-    </span>
+    <div className="flex justify-around items-center flex-wrap p-4">
+      <div>
+        <img
+          className="max-h-20 animate-bounce"
+          src={logo}
+          alt="Coodesh logo"
+        />
+      </div>
+    </div>
   );
 }
 
